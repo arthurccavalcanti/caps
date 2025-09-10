@@ -50,7 +50,7 @@ Projeto de análise de dados de empresas da cidade do Recife
 
 Agrupamento da base de dados pela coluna nome_bairro e contagem do número de CNPJs únicos para cada bairro.
 
-Visualização Geográfica: Criar um mapa de calor (heatmap) sobre o mapa do município. Áreas com cores mais "quentes" indicarão alta concentração de empresas.
+**Visualização Geográfica**: Criar um mapa de calor (heatmap) sobre o mapa do município. Áreas com cores mais "quentes" indicarão alta concentração de empresas.
 
 **Oportunidade**: 
 - Identificar "desertos comerciais" — bairros com alta densidade populacional mas baixa oferta de serviços e comércios. Essas são áreas com alto potencial para novos empreendimentos.
@@ -70,7 +70,7 @@ Visualização Geográfica: Criar um mapa de calor (heatmap) sobre o mapa do mun
 ---
 ## 3. Desigualdade por Setor (CNAE) e Sobrevivência por Setor
 
-Análise de Setor: Agrupar os dados pela coluna desc_atividade ou nome_grupo e contar o número de empresas. Criar um gráfico de barras horizontais para mostrar os setores dominantes.
+**Análise de Setor**: Agrupar os dados pela coluna desc_atividade ou nome_grupo e contar o número de empresas. Criar um gráfico de barras horizontais para mostrar os setores dominantes.
 
 **Análise de Longevidade**:
 - Calcular a "idade" das empresas ativas (situacao_empresa == 'ATIVA') subtraindo a data atual da data_abertura_empresa.
