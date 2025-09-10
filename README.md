@@ -1,5 +1,6 @@
 # Empresas do Recife - CAPS
 Projeto de análise de dados de empresas da cidade do Recife
+Trello: https://trello.com/invite/b/68c0b61fd803f00ccc8d5ba2/ATTIeb3fd7596947223b0c918f0dde559be849B8B4FE/caps-fds
 
 ### Integrantes
 - Ramon Taffarel (PO)
