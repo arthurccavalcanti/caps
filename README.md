@@ -55,12 +55,12 @@ Visualização Geográfica: Criar um mapa de calor (heatmap) sobre o mapa do mun
 **Oportunidade**: 
 - Identificar "desertos comerciais" — bairros com alta densidade populacional mas baixa oferta de serviços e comércios. Essas são áreas com alto potencial para novos empreendimentos.
 - Planejamento Urbano: Direcionar investimentos em infraestrutura (transporte público, internet, segurança) para as áreas com menor densidade empresarial, incentivando a descentralização econômica.
--Incentivos Fiscais: Criar programas de isenção ou redução de impostos (como IPTU ou ISS) para empresas que se instalarem nessas áreas carentes, gerando empregos locais e reduzindo o deslocamento da população.
+- Incentivos Fiscais: Criar programas de isenção ou redução de impostos (como IPTU ou ISS) para empresas que se instalarem nessas áreas carentes, gerando empregos locais e reduzindo o deslocamento da população.
 
 ---
 ## 2. Chegada de Empreendimentos por Ano e Impacto de Crises
 
-Visualização Temporal: Criar um gráfico de linhas ou de barras com o tempo (ano) no eixo X e a contagem de novas empresas no eixo Y. Marque no gráfico os anos de eventos importantes (ex: início da pandemia em 2020).
+**Visualização Temporal**: Criar um gráfico de linhas ou de barras com o tempo (ano) no eixo X e a contagem de novas empresas no eixo Y. Marque no gráfico os anos de eventos importantes (ex: início da pandemia em 2020).
 
 **Oportunidade**: 
 - Medir a resiliência da economia local.
