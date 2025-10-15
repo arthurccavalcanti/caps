@@ -103,3 +103,12 @@ Para garantir agilidade e entrega de valor contínua, o projeto será dividido e
 ### Fase 3: Análises Estratégicas e Preditivas
 * **Análise 7: Sobrevivência por Setor:** Comparar a longevidade de empresas entre diferentes setores para identificar os mais resilientes e os que necessitam de maior apoio.
 * **Análise 8: Impacto de Políticas Públicas:** Correlacionar a abertura de empresas de setores específicos (ex: tecnologia) com a implementação de políticas de incentivo (ex: Porto Digital).
+
+---
+## Protótipo no Figma
+
+Você pode visualizar o protótipo do projeto diretamente no Figma através do link abaixo:
+
+[🔗 Acessar protótipo no Figma](https://www.figma.com/design/wNX8CAKAYyzrUxeO2DHyJm/FDS?node-id=4-6488&t=aF1eegjzoOfXfpnE-1)
+
+---
