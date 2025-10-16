@@ -8,6 +8,7 @@ Trello: https://trello.com/invite/b/68c0b61fd803f00ccc8d5ba2/ATTIeb3fd7596947223
 - Arthur Cavalcanti (Dev)
 - Susan Capelo (Dev)
 - Manoel Nascimento (Dev)
+- Paulo Nery (Dev)
 
 ## 1. Visão Geral (3Cs)
 
