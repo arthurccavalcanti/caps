@@ -113,3 +113,5 @@ Você pode visualizar o protótipo do projeto diretamente no Figma através do l
 [🔗 Acessar protótipo no Figma](https://www.figma.com/design/wNX8CAKAYyzrUxeO2DHyJm/FDS?node-id=4-6488&t=aF1eegjzoOfXfpnE-1)
 
 ---
+## Bug Tracker
+[🔗 Acessar Bug Tracker](https://docs.google.com/document/d/1hN_d5-Roq8JewAP6yDAeJkOeVa656AMSWeRj0CBevdk/edit?tab=t.0)
