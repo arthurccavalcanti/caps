@@ -115,3 +115,6 @@ Você pode visualizar o protótipo do projeto diretamente no Figma através do l
 ---
 ## Bug Tracker
 [🔗 Acessar Bug Tracker](https://docs.google.com/document/d/1hN_d5-Roq8JewAP6yDAeJkOeVa656AMSWeRj0CBevdk/edit?tab=t.0)
+
+## Streamcast link
+[🔗 Acessar Streamcast](https://youtu.be/tY55M1ke62M)
